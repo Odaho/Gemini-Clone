@@ -33,24 +33,24 @@ npm run dev
 
 6. Open your browser and visit http://localhost:3000 to see the application in action.
 
-##Build
+## Build
 To create a production-ready build, run:
 npm run build
 This will generate a dist folder containing the optimized files for deployment.
 
-##Deployment
+## Deployment
 To deploy your application:
 
 Upload the contents of the dist folder to your web server.
 Ensure the server is configured to serve static files.
 
-##Contributing
+## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions and improvements.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-##Acknowledgments
+## Acknowledgments
 Inspired by Gemini's features and design.
 Utilized Google Generative AI for enhanced user interaction.
 
