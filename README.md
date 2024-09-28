@@ -1,4 +1,5 @@
 # Gemini Clone
+live demo: https://geminiclone.odahojrmudau.com/
 
 ## Overview
 Gemini Clone is a web application built using Vite that mimics the functionality and design of the Gemini platform. This project showcases the integration of generative AI features, providing users with an interactive experience.
